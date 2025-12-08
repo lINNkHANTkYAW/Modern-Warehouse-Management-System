@@ -1,0 +1,7 @@
+{
+  "name": "Nexus WMS",
+  "description": "A smart, AI-powered Warehouse Management System featuring inventory tracking, stock movements, visual product identification, and intelligent insights using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
